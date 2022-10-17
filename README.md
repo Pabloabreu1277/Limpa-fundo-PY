@@ -1,2 +1,2 @@
-# Limpa-fundo-PY - Project developing.
+# Limpa-fundo-PY -Project under development.
 Projeto para limpar o fundo de qualquer imagem com python, usaremos o framawork "rembg" e "PIL", projeto em elaboração... 
